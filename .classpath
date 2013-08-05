@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hadoop-core-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hadoop-tools-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hbase-0.94.8.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hbase-0.94.8-tests.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/joda-time-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/joda-time-2.2.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/jpcap.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/p3utils.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/zookeeper-3.4.5.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hive-common-0.9.0.jar"/>
+	<classpathentry kind="lib" path="D:/workspace_hadoop/bgpdoop/lib/hive-serde-0.9.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
